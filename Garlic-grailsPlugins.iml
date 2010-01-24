@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="gwt" name="GWT">
+      <configuration>
+        <setting name="compilerMaxHeapSize" value="128" />
+        <setting name="gwtScriptOutputStyle" value="DETAILED" />
+        <setting name="gwtSdkUrl" value="file://" />
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../.grails/1.2.0/projects/Garlic/plugins/gwt-0.4.1">
+      <sourceFolder url="file://$MODULE_DIR$/../../.grails/1.2.0/projects/Garlic/plugins/gwt-0.4.1/src/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../.grails/1.2.0/projects/Garlic/plugins/gwt-0.4.1/src/groovy" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../.grails/1.2.0/projects/Garlic/plugins/gwt-0.4.1/grails-app/controllers" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../.grails/1.2.0/projects/Garlic/plugins/tomcat-1.2.0">
+      <sourceFolder url="file://$MODULE_DIR$/../../.grails/1.2.0/projects/Garlic/plugins/tomcat-1.2.0/src/groovy" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="grails-1.2.0" level="project" />
+    <orderEntry type="module-library" exported="">
+      <library name="Grails User Library">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../.grails/1.2.0/projects/Garlic/plugins/tomcat-1.2.0/lib" />
+          <root url="file://$MODULE_DIR$/../../.grails/1.2.0/projects/Garlic/plugins/gwt-0.4.1/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/../../.grails/1.2.0/projects/Garlic/plugins/gwt-0.4.1/lib" recursive="false" />
+        <jarDirectory url="file://$MODULE_DIR$/../../.grails/1.2.0/projects/Garlic/plugins/tomcat-1.2.0/lib" recursive="false" />
+      </library>
+    </orderEntry>
+  </component>
+</module>
+

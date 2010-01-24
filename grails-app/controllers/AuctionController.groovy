@@ -1,0 +1,4 @@
+class AuctionController {
+
+    def index = { }
+}
