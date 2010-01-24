@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="Garlic:GrailsWeb">
+    <output-path>$PROJECT_DIR$/out/artifacts/Garlic_GrailsWeb</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="Garlic/web/GrailsWeb" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="javaee-facet-classes" facet="Garlic/web/GrailsWeb" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

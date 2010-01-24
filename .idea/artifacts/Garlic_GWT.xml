@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact name="Garlic:GWT">
+    <output-path>$PROJECT_DIR$/out/artifacts/Garlic_GWT</output-path>
+    <root id="root">
+      <element id="gwt-compiler-output" facet="Garlic/gwt/GWT" />
+    </root>
+  </artifact>
+</component>
