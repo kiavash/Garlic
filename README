@@ -1,0 +1,1 @@
+You may run "grails run-gwt-client" after "grails run-app" command to see the result in GWT client OR run "grails compile-gwt-modules" for compiling GWT code to Javascript and then you will see the result in the browser.   
